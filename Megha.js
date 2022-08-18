@@ -5,7 +5,7 @@ var number2 = '';
 var operatorClicked = false;
 var deletebuttons = false;
 var clearbutton = false;
-operatordisable(Operator);
+
 
 //get numbers -------------------------------------------------------
 function number(num) {
